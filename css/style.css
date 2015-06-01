@@ -1,6 +1,6 @@
 ﻿/*
 * Author: Vasterad
-* Template: Nevia
+* Template: Nissar
 * URL: http://themeforest.net/user/Vasterad/
 */
 
@@ -3421,6 +3421,10 @@ table.standard-table.shop td {
 .increase-value:hover {
 	background: #aaa;
 	box-shadow: inset 0px -1px 0px 0px rgba(0,0,0, 0.1);
+}
+
+.clientGrid{
+	width: 199px;
 }
 
 
